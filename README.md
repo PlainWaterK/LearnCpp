@@ -1,2 +1,2 @@
 # LearnCpp
-The repository record 
+The repository record the process of learning C++
